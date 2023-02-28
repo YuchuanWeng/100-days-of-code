@@ -1,13 +1,13 @@
-print("""
-Weng
-February 27th 2023
-I am signing up for Replit's 100 days of Python 
-challenge!
-I will make sure to spend some time every day coding
-along, for a minimum of 10 minutes a day .
-I'll be using Replit, an amazing online IDE so I can do 
-this form my phone whereever I happen to be. No execuses
-for not coding from the middle of a field!
-I am feeling 🤓
-You can follow my progress at replit.com/@YuchuanWeng
-""")
+myName = input("what is your name?")
+myFood = input("what is your favorite food? ")
+myMusic = input("what is your favorite music? ")
+myPlace = input("Where do you live? ")
+print()
+print("So your name is ")
+print(myName)
+print("and you like")
+print(myFood)
+print(myMusic)
+print("and you live in")
+print(myPlace)
+print("that is awesome! thanks for sharing")
